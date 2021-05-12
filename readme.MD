@@ -1,5 +1,7 @@
 # FerrasCoin (ZAZAZA)
 
+<img src="https://ferrascoin.com/images/etherscan-logo.png" title="ZAZAZA">
+
 **FerrasCoin** es un token ERC-20 desdplegado en la red Ethereum. Surge como un proyecto dominguero con el que empecé a aprender a desarrollar *SmartContracts* sobre la red Ethereum.
 
 -- **Sitio web:** [https://ferrascoin.com](https://ferrascoin.com)
